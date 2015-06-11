@@ -18,6 +18,7 @@ test('visiting /my-test', function(assert) {
   visit('/my-test');
 
   andThen(function() {
+    assert.equal(currentPath(), 'my-test');
     assert.equal(currentURL(), '/my-test');
   });
 });
