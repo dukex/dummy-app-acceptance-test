@@ -1,4 +1,4 @@
-# Dummy-app-acceptance-test
+# Dummy-app-acceptance-test [![Build Status](https://travis-ci.org/dukex/dummy-app-acceptance-test.svg)](https://travis-ci.org/dukex/dummy-app-acceptance-test)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
